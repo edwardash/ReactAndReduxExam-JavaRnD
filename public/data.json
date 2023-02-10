@@ -1,0 +1,65 @@
+[
+    {
+        "id": "63e532dbaed660b3fba37590",
+        "image": "https://5.imimg.com/data5/ECOM/Default/2022/1/KB/GN/NC/145960951/1600241544967-461-23-tkfsyl2270-originnm80prcnt-500x500.jpg",
+        "name": "KIOSK",
+        "des": "Cupidatat aliquip cillu",
+        "price": "Rs 3258.50"
+    },
+    {
+        "id": "63e532dbef4b0580984efd5e",
+        "image": "https://m.media-amazon.com/images/I/61Iy461fesL._UY500_.jpg",
+        "name": "NIQUENT",
+        "des": "Sunt ipsum labor",
+        "price": "Rs 878.64"
+    },
+    {
+        "id": "63e532db539d185bcf9cec15",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "INTRADISK",
+        "des": "Fugiat occaecat",
+        "price": "Rs 460.29"
+    },
+    {
+        "id": "63e532db92c785d92dfd1925",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "EQUITAX",
+        "des": "Ea sit e",
+        "price": "Rs 2362.03"
+    },
+    {
+        "id": "63e532dbd7ec1d0dd8b44660",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "KYAGORO",
+        "des": "Elit veni",
+        "price": "Rs 2548.11"
+    },
+    {
+        "id": "63e532db80111b3c6300597d",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "FLOTONIC",
+        "des": "Exercitation sint la",
+        "price": "Rs 1000"
+    },
+    {
+        "id": "63e532db8bc89e128f8a8f73",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "ARCHITAX",
+        "des": "Aliqua incididunt",
+        "price": "Rs 2321.06"
+    },
+    {
+        "id": "63e532db73a063d2f5623a36",
+        "image": "https://images-static.nykaa.com/media/catalog/product/8/9/89461d6TTSS-135386_1.jpg?tr=w-500,pr-true",
+        "name": "SPLINX",
+        "des": "Voluptate deserunt ulla",
+        "price": "Rs 1902.08"
+    },
+    {
+        "id": "63e532db8225a83ec3147b40",
+        "image": "https://5.imimg.com/data5/CR/OL/NO/ANDROID-36904487/img-20181220-wa0001-jpg-500x500.jpg",
+        "name": "QNEKT",
+        "des": "Ullamco mollit",
+        "price": "Rs 3342.57"
+    }
+]
